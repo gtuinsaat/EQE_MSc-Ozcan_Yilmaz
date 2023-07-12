@@ -2,6 +2,6 @@
 
 # Özcan Yılmaz 
 
-<img src="https://ibb.co/0qfh8dh" width="30%">
+<img src="https://ibb.co/0qfh8dh.png" width="30%">
 
 # 5 Katlı Binanın Perspektif Görünümü
