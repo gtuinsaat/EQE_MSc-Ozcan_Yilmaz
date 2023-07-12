@@ -4,4 +4,4 @@
 
 <img src="https://i.ibb.co/gyDzHBz/001.png">
 
-<font size="10"> # 5 Katlı Binanın Perspektif Görünümü 
+<font size="12">  5 Katlı Binanın Perspektif Görünümü 
