@@ -1,2 +1,1 @@
-<center>
-ÖZET
+<center> ÖZET
